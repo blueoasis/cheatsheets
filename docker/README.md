@@ -13,5 +13,3 @@
 [Docker Compose](.md)
 
 [Docker Swarm](.md)
-
-[](.md)

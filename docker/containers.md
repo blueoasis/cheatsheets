@@ -9,6 +9,7 @@ Start a container with an interactive terminal at a bash prompt | docker contain
 Start a new terminal on a running container | docker container exec -it [container-name] /bin/bash
 
 ### Inspect Containers
+
 Task | Command
 --- | ---
 See all running containers | docker container ls or docker ps 
